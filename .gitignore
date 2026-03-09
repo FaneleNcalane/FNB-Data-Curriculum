@@ -23,11 +23,6 @@ desktop.ini
 .ipynb_checkpoints/
 *.ipynb
 
-# Large data files (add to Git LFS instead)
-# *.csv  ← Uncomment if CSVs are large; use Git LFS
-
-# Output PDFs (optional — comment out if you want to track exports)
-# outputs/*.pdf
 
 # VS Code
 .vscode/
