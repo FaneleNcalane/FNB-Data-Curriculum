@@ -1,13 +1,13 @@
 # Week 2 – Data Collection & Management
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Understand the data lifecycle and data governance principles
 - Distinguish between structured and unstructured data
 - Work with common file formats: CSV, JSON, XML, SQL
 - Use Python and Power BI to summarise sales data
 
-## 📚 Key Concepts
+##  Key Concepts
 
 | Concept | Description |
 |---------|-------------|
@@ -27,7 +27,7 @@
 
 ---
 
-## 📋 Group Project – Sales Summary
+##  Group Project – Sales Summary
 
 ### Dataset
 - **File:** `data/Week-2-Sales-Data.csv`
@@ -84,7 +84,7 @@ region_summary.to_csv('outputs/sales_by_region.csv', index=False)
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 week-02/
@@ -100,7 +100,7 @@ week-02/
     └── powerbi_report.png
 ```
 
-## ✅ Submission Checklist
+##  Submission Checklist
 
 - [ ] `week2_analysis.py` saved and runs without errors
 - [ ] Power BI `.pbix` file saved in `outputs/`
