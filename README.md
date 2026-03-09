@@ -1,12 +1,11 @@
-# 🏦 FNB Data Curriculum – 16-Week Program
+#  FNB Data Curriculum – 16-Week Program
 
-> Powered by **Capaciti** | Project Report 2025
 
 This repository contains all weekly group projects and deliverables for the **16-Week FNB Data Analytics Programme**. The curriculum progresses from foundational data concepts through to a full Power BI capstone project.
 
 ---
 
-## 📅 Curriculum Overview
+##  Curriculum Overview
 
 | Week | Topic | Tools | Deliverable |
 |------|-------|-------|-------------|
@@ -29,7 +28,7 @@ This repository contains all weekly group projects and deliverables for the **16
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 fnb-data-curriculum/
@@ -60,7 +59,7 @@ Each week folder contains:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI Desktop** – Primary BI and visualization tool
 - **Python** – Data scripting (Weeks 2+)
@@ -70,18 +69,17 @@ Each week folder contains:
 
 ---
 
-## 👥 Team
+##  Team
 
-> Add your group member names here.
 
 | Name | Role |
 |------|------|
-|      |      |
+| Fanele     |Ncalane      |
 |      |      |
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - Each week builds on the previous — keep your `.pbix` files version-controlled.
 - Place raw datasets in `data/`, final outputs in `outputs/`.
@@ -90,4 +88,4 @@ Each week folder contains:
 
 ---
 
-*Programme by Capaciti | FNB Data – 2025*
+
