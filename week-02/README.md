@@ -109,7 +109,7 @@ week-02/
 
 ---
 
-## 🔗 Resources
+##  Resources
 
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Power BI – Getting Started](https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started)
