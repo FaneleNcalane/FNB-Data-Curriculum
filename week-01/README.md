@@ -1,13 +1,13 @@
 # Week 1 – Introduction to Data Analytics & SFIA Skills
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Understand the four types of data analytics: Descriptive, Diagnostic, Predictive, and Prescriptive
 - Learn the SFIA (Skills Framework for the Information Age) framework for data professionals
 - Identify key tools used in data analytics: Java, Python, Excel, Power BI
 - Map real-world job requirements to SFIA skill categories
 
-## 📚 Key Concepts
+##  Key Concepts
 
 | Concept | Description |
 |---------|-------------|
@@ -60,7 +60,7 @@ Research and present on:
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 week-01/
@@ -71,7 +71,7 @@ week-01/
 └── screenshots/            ← Optional: screenshots of job descriptions
 ```
 
-## ✅ Submission Checklist
+## Submission Checklist
 
 - [ ] Presentation file saved in `outputs/`
 - [ ] At least 2 job descriptions researched
@@ -80,7 +80,7 @@ week-01/
 
 ---
 
-## 🔗 Resources
+##  Resources
 
 - [SFIA Framework Official Site](https://sfia-online.org/)
 - [DAAN – Data Analytics on SFIA](https://sfia-online.org/en/sfia-8/skills/data-analytics)
