@@ -27,7 +27,7 @@
 
 ---
 
-## 📋 Group Task 1 – Research & Theory
+##  Group Task 1 – Research & Theory
 
 ### Task Description
 
